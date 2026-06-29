@@ -1,7 +1,6 @@
 // Problem: 001
 // Topic: Type Coercion
 // Difficulty: ⭐
-// Status: Solved
 // Date: 2026-06-29
 
 // Type coercion is the process where JavaScript automatically converts 
